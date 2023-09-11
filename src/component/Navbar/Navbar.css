@@ -1,0 +1,19 @@
+.container{
+    background-color: rgb(1, 1, 20);
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+
+}
+.menu-div{
+    display:flex;
+}
+.menu{
+    margin-right:15px ;
+    background-color: rgb(1, 1, 20);
+    color: #fff;
+    border: none;
+}
+.navbar-heading{
+    font-size: 40px;
+}
