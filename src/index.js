@@ -1,8 +1,8 @@
 import ReactDOM from 'react-dom/client';
-import Home from './viwes/home/home';
-import About from './viwes/about/about';
-import Contact from './viwes/contact/contact';
-import Login from './viwes/login/login';
+import Home from './viwes/Home/Home'
+import About from './viwes/About/About';
+import Contact from './viwes/Contact/Contact';
+import Login from './viwes/Login/Login';
 
 function App() {
     const path = window.location.pathname;

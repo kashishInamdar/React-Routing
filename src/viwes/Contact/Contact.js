@@ -1,5 +1,5 @@
-import Navbar from '../../component/navbar/navbar'
-import Button from '../../component/button/button'
+import Navbar from '../../component/Navbar/Navbar'
+import Button from '../../component/Button/Button'
 export default function Contact(){
     return(
         <>
