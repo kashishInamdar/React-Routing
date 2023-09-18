@@ -1,0 +1,40 @@
+.ProductCard{
+    border: 2px solid black;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(175, 175, 255);
+    width: 300px;
+}
+.ProductCard img{
+    width: 100%;
+}
+.Increment-decrement{
+   
+   display: inline-block;
+   position: relative;
+   left: 210px;
+   bottom: 90px;
+    
+}
+.Increment-decrement button{
+    background-color: aqua;
+    margin: 3px;
+    border:5px double bisque;
+    padding: 4px;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
+.Increment-decrement button:hover{
+    background-color: rgb(27, 27, 33);
+    color: #fff;
+    border:5px double bisque;
+}
+.Increment-decrement p{
+   position: relative;
+   font-size: 25px;
+   display: inline-block;
+}
