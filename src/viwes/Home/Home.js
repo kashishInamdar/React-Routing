@@ -8,7 +8,6 @@ export default function Home(){
     return(
         <>
         <Navbar/>
-        <h1 className='heading'>This is the Home Page</h1>
         <div className='productCard'>
         <ProductCard ImgUrl={pizza1} heading={'Mioniz Pizza'}/> 
         <ProductCard ImgUrl={pizza1} heading={'Mioniz Pizza'}/> 
